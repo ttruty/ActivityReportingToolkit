@@ -1,0 +1,13 @@
+C:\Users\KinectProcessing\Documents\Visual Studio 2015\Projects\EpochCompressingTool\EpochCompressingTool\bin\x86\Release\EpochCompressingTool.exe.config
+C:\Users\KinectProcessing\Documents\Visual Studio 2015\Projects\EpochCompressingTool\EpochCompressingTool\obj\x86\Release\EpochCompressingTool.csproj.ResolveComReference.cache
+C:\Users\KinectProcessing\Documents\Visual Studio 2015\Projects\EpochCompressingTool\EpochCompressingTool\bin\x86\Release\EpochCompressingTool.exe
+C:\Users\KinectProcessing\Documents\Visual Studio 2015\Projects\EpochCompressingTool\EpochCompressingTool\bin\x86\Release\EpochCompressingTool.pdb
+C:\Users\KinectProcessing\Documents\Visual Studio 2015\Projects\EpochCompressingTool\EpochCompressingTool\bin\x86\Release\GeneActiv.DeviceIOLibrary.dll
+C:\Users\KinectProcessing\Documents\Visual Studio 2015\Projects\EpochCompressingTool\EpochCompressingTool\bin\x86\Release\GeneActiv.GeneaLibrary.dll
+C:\Users\KinectProcessing\Documents\Visual Studio 2015\Projects\EpochCompressingTool\EpochCompressingTool\bin\x86\Release\GeneActiv.WinUsbLibrary.dll
+C:\Users\KinectProcessing\Documents\Visual Studio 2015\Projects\EpochCompressingTool\EpochCompressingTool\bin\x86\Release\GeneaPCDriver.dll
+C:\Users\KinectProcessing\Documents\Visual Studio 2015\Projects\EpochCompressingTool\EpochCompressingTool\bin\x86\Release\InTheHand.Net.Personal.dll
+C:\Users\KinectProcessing\Documents\Visual Studio 2015\Projects\EpochCompressingTool\EpochCompressingTool\bin\x86\Release\GeneActiv.DotNetLibrary.dll
+C:\Users\KinectProcessing\Documents\Visual Studio 2015\Projects\EpochCompressingTool\EpochCompressingTool\obj\x86\Release\EpochCompressingTool.csprojResolveAssemblyReference.cache
+C:\Users\KinectProcessing\Documents\Visual Studio 2015\Projects\EpochCompressingTool\EpochCompressingTool\obj\x86\Release\EpochCompressingTool.exe
+C:\Users\KinectProcessing\Documents\Visual Studio 2015\Projects\EpochCompressingTool\EpochCompressingTool\obj\x86\Release\EpochCompressingTool.pdb

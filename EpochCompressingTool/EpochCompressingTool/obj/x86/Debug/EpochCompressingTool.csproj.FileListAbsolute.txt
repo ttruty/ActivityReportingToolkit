@@ -1,0 +1,2 @@
+C:\Users\KinectProcessing\Documents\Visual Studio 2015\Projects\EpochCompressingTool\EpochCompressingTool\bin\x86\Debug\EpochCompressingTool.exe.config
+C:\Users\KinectProcessing\Documents\Visual Studio 2015\Projects\EpochCompressingTool\EpochCompressingTool\obj\x86\Debug\EpochCompressingTool.csproj.ResolveComReference.cache
